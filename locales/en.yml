@@ -222,7 +222,7 @@ en:
     open_prs: Open PRs
     ex_prs: External PRs
     ex_prs_merged: Ex. PRs merged
-    mentions: "@UKODITech mentions"
+    mentions: "@ODILabs mentions"
     build_status: Build status
     dependencies: Dependency Status
     dependency-alerts: Dep Alerts
@@ -232,7 +232,7 @@ en:
       open_prs: "Total number of pull requests open on GitHub across all projects"
       ex_prs: "Total number of pull requests submitted to external projects"
       ex_prs_merged: "Total number of pull requests merged into external projects"
-      mentions: "Mentions of @UKODITech on Twitter"
+      mentions: "Mentions of @ODILabs on Twitter"
       build_status: "Current status of Travis CI test builds"
       dependencies: Breakdown of dependencies tracked by Gemnasium
       dependency-alerts: Open gemnasium alerts
